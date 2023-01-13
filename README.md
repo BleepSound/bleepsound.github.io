@@ -1,6 +1,6 @@
 ---
 permalink: /index.html
-layout: home
+layout: single
 ---
 
 # Bleep Sound Eurorack modules
