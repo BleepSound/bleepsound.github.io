@@ -2,5 +2,10 @@
 
 source 'https://rubygems.org'
 
-gem 'jekyll', '~> 4.3.1'
-gem 'jekyll-emoji', '~> 1.0.3'
+group :jekyll_plugins do
+  gem "github-pages"
+  gem "jekyll-include-cache"
+  gem "jemoji"
+end
+
+
