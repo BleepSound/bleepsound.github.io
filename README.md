@@ -22,3 +22,16 @@ layout: single
 
 - :heavy_check_mark: [Basic DC mixer](basic-mixer-dc)
     - 4 channel active mixer with mute option with DC coupling (Audio+CV)
+
+
+| Symbol | Description |
+| ----------- | ----------- |
+| :heavy_check_mark: | Fully designed, debugged, tested, and verified. |
+| :warning: | Fully designed but not tested. There is a high chance this won't work first try. |
+| :exclamation: | Unfinished, messy design. Do not use, for reference or otherwise. |
+
+*Cheers to @Sonosus for the labeling idea*
+
+![alt text](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
+
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License.](http://creativecommons.org/licenses/by-sa/4.0/)
