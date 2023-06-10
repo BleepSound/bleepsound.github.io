@@ -25,10 +25,10 @@ layout: single
 
 ### VCOs:
 
-- :heavy_check_mark: RP2040 chord VCO
-    VCO clone, originally made by HAGIWO ([link](https://note.com/solder_state/n/n64b91a171218) in japanese)
-    RP2040 chord VCO clone in SMD.
-    5-polyphonic Chord VCO module. There are 8 types of tones. With a built-in quantizer and automatic harmonics function, if you input a suitable CV, it will play a nice chord progression.
+- :heavy_check_mark: [RP2040 chord VCO](rp2040-chord-vco)
+    - VCO clone, originally made by HAGIWO ([link](https://note.com/solder_state/n/n64b91a171218) in japanese)
+    - RP2040 chord VCO clone in SMD.
+    - 5-polyphonic Chord VCO module. There are 8 types of tones. With a built-in quantizer and automatic harmonics function, if you input a suitable CV, it will play a nice chord progression.
 
 | Symbol | Description |
 | ----------- | ----------- |
