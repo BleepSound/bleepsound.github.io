@@ -11,7 +11,7 @@ layout: single
 
 - MS20-VCF
     - MS-20 clones built around the LM13700 chip
-    - :warning: [Simple MS20 VCF](ms20-vcf-simple):
+    - :heavy_check_mark: [Simple MS20 VCF](ms20-vcf-simple):
         - 1 LM13700 filter with a Low pass or High pass switch with CV for cutoff
         - Based on barton's version : <https://www.bartonmusicalcircuits.com/synthstuff.html#analog>
     - :heavy_check_mark: [Double MS20-VCF](ms20-vcf-double)
@@ -23,6 +23,12 @@ layout: single
 - :heavy_check_mark: [Basic DC mixer](basic-mixer-dc)
     - 4 channel active mixer with mute option with DC coupling (Audio+CV)
 
+### VCOs:
+
+- :heavy_check_mark: RP2040 chord VCO
+    VCO clone, originally made by HAGIWO ([link](https://note.com/solder_state/n/n64b91a171218) in japanese)
+    RP2040 chord VCO clone in SMD.
+    5-polyphonic Chord VCO module. There are 8 types of tones. With a built-in quantizer and automatic harmonics function, if you input a suitable CV, it will play a nice chord progression.
 
 | Symbol | Description |
 | ----------- | ----------- |
