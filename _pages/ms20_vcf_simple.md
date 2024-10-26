@@ -1,5 +1,5 @@
 ---
-permalink: /ms20-vcf-simple/
+permalink: /ms20_vcf_simple/
 layout: single
 title: "MS20 VCF simple"
 category: "Filters"

@@ -1,5 +1,5 @@
 ---
-permalink: /ms20-vcf-double/
+permalink: /ms20_vcf_double/
 layout: single
 title: "MS20 VCF double"
 category: "Filters"

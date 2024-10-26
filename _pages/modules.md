@@ -18,10 +18,10 @@ Following the links below will take you to the module details. Pay attention to 
 
 - MS20-VCF
     - MS-20 clones built around the LM13700 chip
-    - :heavy_check_mark: [Simple MS20 VCF](/ms20-vcf-simple/):
+    - :heavy_check_mark: [Simple MS20 VCF](/ms20_vcf_simple/):
         - 1 LM13700 filter with a Low pass or High pass switch with CV for cutoff
         - Based on barton's version : ([link](https://www.bartonmusicalcircuits.com/synthstuff.html#analog))
-    - :heavy_check_mark: [Double MS20-VCF](/ms20-vcf-double/)
+    - :heavy_check_mark: [Double MS20-VCF](/ms20_vcf_double/)
         - 2 filters in one, each with Low pass or High pass with a possibility to bridge them and get a band pass filter with CV for cutoff
         - Based on barton's version ([link](https://www.bartonmusicalcircuits.com/synthstuff.html#analog))
 
