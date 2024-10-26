@@ -1,0 +1,5 @@
+---
+permalink: /about/
+layout: single
+---
+
