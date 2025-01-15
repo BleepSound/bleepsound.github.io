@@ -61,6 +61,12 @@ Following the links below will take you to the module details. Pay attention to 
     - All you need in an ADSR
     - Switch to have 2 different time constants for the ADSR
 
+## VCAs
+
+- :warning: [Quad VCA](/quad_vca/)
+    - Quad VCA module, original design taken from Ray Wilson from [MFOS](https://musicfromouterspace.com/index.php?MAINTAB=SYNTHDIY&VPW=1697&VPH=669)
+        - Log/Linear response
+
 ## Power delivery
 
 -  :heavy_check_mark:  [Distribution board](/distribution_b/)
