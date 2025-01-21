@@ -33,6 +33,8 @@ Eurorack standard, 3U 4HP
 |----------|:------------------:|
 |    5V    |         0mA        |
 
+## Functionalities 
+
 **Tune pot**
 
 Set the root frequency.
