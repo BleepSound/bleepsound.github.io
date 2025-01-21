@@ -73,6 +73,8 @@ Following the links below will take you to the module details. Pay attention to 
     - Basic Eurorack PSU distribution board, with 12 IDC headers.
 -  :warning:  [USB distribution board](/usb_distrib/)
     - Double USB receptacle to power 5V usb devices out of your eurorack case.
+-  :warning:  [PSU-Addon](/psu_addon/)
+    - Stable +/-12V supply to be plugged after Meanwell RT series PSU    
 
 | Symbol | Description |
 | ----------- | ----------- |
