@@ -37,7 +37,7 @@ Eurorack standard, 3U 4HP
 
 Set the root frequency.
 
-**chord pot**
+**Chord pot**
 
 Select from 6 types of chord tables for automatic harmonics.
 
