@@ -21,17 +21,67 @@ RP2040 chord VCO clone in SMD.
 There are 8 types of tones.
 With a built-in quantizer and automatic harmonics function, if you input a suitable CV, it will play a nice chord progression.
 
-**Switch indications:**
+## Module Specs
 
-You'll notice numbers along the central 3 position switch. The table below explains each position's function. 
+Eurorack standard, 3U 4HP
+
+|   rail   |      Power         |
+|----------|:------------------:|
+|   +12V   |        15mA        |
+|----------|:------------------:|
+|   -12V   |        15mA        |
+|----------|:------------------:|
+|    5V    |         0mA        |
+
+**Tune pot**
+
+Set the root frequency.
+
+**chord pot**
+
+Select from 6 types of chord tables for automatic harmonics.
+
+![Chord table](/assets/images/chord_table.png)
+
+**Inversion pot**
+
+Choose from 8 types of CHORD inversion.
+For example, "C,E,G" → "E,G,C" → "G,C,E"
+
+Can be controlled via the *INV CV* input (0-5V).
+
+**Mode toggle switch**
+
+You'll notice numbers along the central 3 position toggle switch. The table below explains each position's function. 
 
 | Position |      Function      |
 |----------|:------------------:|
 |     1    |      arpeggio      |
 |----------|:------------------:|
-|     2    |  chord with root   |
+|     2    |  chord with Bass   |
 |----------|:------------------:|
-|     3    | chord without root |
+|     3    |     chord mode     |
+
+- "ARPEGGIO mode" is monophonic. Only single notes. The notes that are played are the constituent notes of CHORD, and are selected with INVERSION CV.
+- "CHORD mode" only plays the constituent notes of a chord. Example: "C,E,G". 
+- "CHORD with BASS mode" plays the constituent notes of a chord as well as the root note one octave lower.
+
+**Wave button**
+
+Press this button to change the wavetable.
+SAW, SIN, SQU, TRI, Dual SAW, FM1, FM2, FM3, 8 sounds in total.
+
+**V/oct input**
+
+input range 0-5V.
+This input is quantized.
+
+**Output**
+
+Output range 10Vp-p.
+No DAC is used on the audio output, just PWM via low pass filters. There will be harmonics in the output.
+
+If you want to improve the output, you could replace the current output stage with a DAC. 
 
 ## Schematics
 
@@ -47,11 +97,11 @@ You can donwload the bom in excel format [here](https://github.com/BleepSound/rp
 
 Full CMS build
 
-:warning: When building this module, do it in this order (from smallest component to highest):
+:warning: When building this module, do it in this order (from smallest component to tallest):
 
 - Start by soldering all the CMS components in the order you want on both sides of the PCB.
 - Then do all the through hole components
-- To solder the headers, place them and place both PCBs in their final postion before fully soldering the pin headers/sockets.
+- To solder the headers, place them and place both PCBs in their final position before fully soldering the pin headers/sockets.
 
 For the next parts, always place them without soldering them on: 
 - jacks, pots and switches that go throught the front panel
