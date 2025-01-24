@@ -43,3 +43,11 @@ Follow this link if you want to dowload the latest version of gerber files, sche
 
 :arrow_down: [**Download**](https://github.com/BleepSound/distribution_board/releases)
 
+<script src="https://utteranc.es/client.js"
+        repo="BleepSound/bleepsound.github.io"
+        issue-term="title"
+        label="Comment"
+        theme="photon-dark"
+        crossorigin="anonymous"
+        async>
+</script>

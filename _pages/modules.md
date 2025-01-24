@@ -85,3 +85,12 @@ Following the links below will take you to the module details. Pay attention to 
 ![alt text](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License.](http://creativecommons.org/licenses/by-sa/4.0/)
+
+<script src="https://utteranc.es/client.js"
+        repo="BleepSound/bleepsound.github.io"
+        issue-term="title"
+        label="Comment"
+        theme="photon-dark"
+        crossorigin="anonymous"
+        async>
+</script>

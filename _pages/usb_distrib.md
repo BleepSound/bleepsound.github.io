@@ -50,3 +50,12 @@ Solder first J3 (the terminal block), then put in place on J2 and J1 (the USB re
 Follow this link if you want to dowload the latest version of gerber files, schematic, kicad files...
 
 :arrow_down: [**Download**](https://github.com/BleepSound/usb-distrib/releases)
+
+<script src="https://utteranc.es/client.js"
+        repo="BleepSound/bleepsound.github.io"
+        issue-term="title"
+        label="Comment"
+        theme="photon-dark"
+        crossorigin="anonymous"
+        async>
+</script>

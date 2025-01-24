@@ -143,3 +143,12 @@ If you need any help, you can find a tutorial on how to flash a software via ard
 Follow this link if you want to dowload the latest version of gerber files, schematic, kicad files...
 
 :arrow_down: [**Download**](https://github.com/BleepSound/rp2040-chord-vco/releases)
+
+<script src="https://utteranc.es/client.js"
+        repo="BleepSound/bleepsound.github.io"
+        issue-term="title"
+        label="Comment"
+        theme="photon-dark"
+        crossorigin="anonymous"
+        async>
+</script>
