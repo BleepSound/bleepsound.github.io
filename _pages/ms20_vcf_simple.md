@@ -68,12 +68,3 @@ Once placed, put in place the front panel, then fasten all components to it. Onc
 Follow this link if you want to dowload the latest version of gerber files, schematic, kicad files...
 
 :arrow_down: [**Download**](https://github.com/BleepSound/ms20-vcf-simple/releases)
-
-<script src="https://utteranc.es/client.js"
-        repo="BleepSound/bleepsound.github.io"
-        issue-term="title"
-        label="Comment"
-        theme="photon-dark"
-        crossorigin="anonymous"
-        async>
-</script>
