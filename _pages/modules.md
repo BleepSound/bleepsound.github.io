@@ -67,6 +67,11 @@ Following the links below will take you to the module details. Pay attention to 
     - Quad VCA module, original design taken from Ray Wilson from [MFOS](https://musicfromouterspace.com/index.php?MAINTAB=SYNTHDIY&VPW=1697&VPH=669)
         - Log/Linear response
 
+## Percusions
+
+- :warning: [Drumbox](/drumbox/)
+    - 6 sound basic analog drum machine. All you need for drums in 10HP.
+
 ## Power delivery
 
 -  :heavy_check_mark:  [Distribution board](/distribution_b/)

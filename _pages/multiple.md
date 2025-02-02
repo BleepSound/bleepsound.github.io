@@ -19,6 +19,18 @@ Each input is routed to 2 outputs.
 
 All the sections "cascade" onto one another, so if you plug only input 1, you'll get that signal on all the 6 ouputs
 
+## Module Specs
+
+Eurorack standard, 3U 3HP
+
+|   rail   |      Power         |
+|----------|:------------------:|
+|   +12V   |        -mA         |
+|----------|:------------------:|
+|   -12V   |        -mA         |
+|----------|:------------------:|
+|    5V    |         0mA        |
+
 ## Schematics
 
 ![Multiple-3x2 schematic](/assets/images/Multiple-3x2_V1.0--Schematic.svg)

@@ -21,6 +21,18 @@ Mute switches and vol pots on all voices.
 
 One main out and one inverted out.
 
+## Module Specs
+
+Eurorack standard, 3U 8HP
+
+|   rail   |      Power         |
+|----------|:------------------:|
+|   +12V   |        -mA         |
+|----------|:------------------:|
+|   -12V   |        -mA         |
+|----------|:------------------:|
+|    5V    |         0mA        |
+
 ## Schematics
 
 ![basic dc Mixer schematic](/assets/images/Basic-DC-mixer--schematic.svg)

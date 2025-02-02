@@ -30,6 +30,18 @@ Self oscilation if resonance pushed to maximum, can be adjusted with 2 trimmers 
 - 1 trimmer for the sine wave amplitude (resVol)
 - 1 trimmer for the level at which the knob for resonance starts the self oscillation (resLvl)
 
+## Module Specs
+
+Eurorack standard, 3U 12HP
+
+|   rail   |      Power         |
+|----------|:------------------:|
+|   +12V   |        -mA         |
+|----------|:------------------:|
+|   -12V   |        -mA         |
+|----------|:------------------:|
+|    5V    |         0mA        |
+
 ## Schematics
 
 You'll find only the first filter below, the second filter is exactly the same.

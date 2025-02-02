@@ -26,6 +26,18 @@ Self oscilation if resonance pushed to maximum, can be adjusted with 2 trimmers 
 - 1 trimmer for the sine wave amplitude (resVol)
 - 1 trimmer for the level at which the knob for resonance starts the self oscillation (resLvl)
 
+## Module Specs
+
+Eurorack standard, 3U 10HP
+
+|   rail   |      Power         |
+|----------|:------------------:|
+|   +12V   |        -mA         |
+|----------|:------------------:|
+|   -12V   |        -mA         |
+|----------|:------------------:|
+|    5V    |         0mA        |
+
 ## Schematics
 
 ![single MS20-VCF schematic](/assets/images/MS20-VCF-S--Schematic.svg)

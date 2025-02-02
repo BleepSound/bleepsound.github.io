@@ -23,6 +23,18 @@ CV inputs are normalled for channel 1-2 and channel 3-4, to have a stereo VCA wi
 
 All outputs are normalled to one another, to use the VCA as an active audio mixer. 
 
+## Module Specs
+
+Eurorack standard, 3U 10HP
+
+|   rail   |      Power         |
+|----------|:------------------:|
+|   +12V   |        -mA         |
+|----------|:------------------:|
+|   -12V   |        -mA         |
+|----------|:------------------:|
+|    5V    |         0mA        |
+
 ## Schematics
 
 ![Quad VCA schematic](/assets/images/Basic_VCA--Schematic.svg)

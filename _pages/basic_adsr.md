@@ -21,6 +21,18 @@ One switch to change the time constant of the ADSR. I chose some arbitrary value
 
 Just change the values of **C8** and **C9**, which can be either polarized electrolytic or unpolarized capacitors. Just make sure you get the orientation right on the polarized ones.
 
+## Module Specs
+
+Eurorack standard, 3U 4HP
+
+|   rail   |      Power         |
+|----------|:------------------:|
+|   +12V   |        -mA         |
+|----------|:------------------:|
+|   -12V   |        -mA         |
+|----------|:------------------:|
+|    5V    |         0mA        |
+
 ## Schematics
 
 ![basic ADSR schematic](/assets/images/Basic-ADSR--Schematic.svg)
