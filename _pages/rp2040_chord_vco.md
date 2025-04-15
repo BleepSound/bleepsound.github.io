@@ -91,9 +91,9 @@ If you want to improve the output, you could replace the current output stage wi
 
 ## BoM
 
-[See bom](/assets/bom/RP2040-VCO_V1.2--iBoM.html)
+[See bom](/assets/bom/RP2040-VCO_V1.4--iBoM.html)
 
-You can donwload the bom in excel format [here](https://github.com/BleepSound/rp2040-chord-vco/releases/download/V1.3/RP2040-VCO_V1.2--BoM.xlsx)
+You can donwload the bom in excel format [here](https://github.com/BleepSound/rp2040-chord-vco/releases/download/V1.4/RP2040-VCO_V1.4--BoM.xlsx)
 
 ## Build Informations
 
@@ -120,7 +120,7 @@ Once placed, put the front panel in place, then fasten all components to it. Onc
 
 ## Software
 
-You can download the software for that module [here](https://github.com/BleepSound/rp2040-chord-vco/releases/download/V1.3/Rp2040.ino) or in the download link below.
+You can download the software for that module [here](https://github.com/BleepSound/rp2040-chord-vco/releases/download/V1.4/Rp2040.ino) or in the download link below.
 
 The microcontroler model is: **Seeed XIAO RP2040**
 
@@ -137,6 +137,10 @@ If you need any help, you can find a tutorial on how to flash a software via ard
 ### V1.2
  - Fix issues on SW1
  - Update front panel look to include all informations
+
+### V1.4
+ - Add R18 (10k) resistor to CV Inv input
+ - Update BoM with extra details and informations
 
 ## Download
 
