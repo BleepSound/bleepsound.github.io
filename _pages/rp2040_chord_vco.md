@@ -142,7 +142,7 @@ If you need any help, you can find a tutorial on how to flash a software via ard
  - Add R18 (10k) resistor to CV Inv input
  - Update BoM with extra details and informations
 
- ### V1.5
+### V1.5
  - Reverse all pots because they were backwards. 
 
 
